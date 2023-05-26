@@ -1,2 +1,2 @@
-# SquirrelFramework.Utility
-A common utilities kit set
+# SquirrelFramework.Model
+Basic Model for Squirrel Framework
